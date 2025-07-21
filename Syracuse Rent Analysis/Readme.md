@@ -8,26 +8,26 @@ pip (Python package installer)
 1. Set Up Your Environment
 Open your Anaconda Prompt (or your terminal/command prompt) and navigate to your desired project directory.
 
-# Navigate to where you want to create your project folder
-cd C:\Users\YourUser\Documents\Projects 
+Navigate to where you want to create your project folder
+C:\Users\YourUser\Documents\Projects 
 
-# Create the project folder
+Create the project folder
 mkdir syracuse_rent_analyzer
 cd syracuse_rent_analyzer
 
-# Create the 'data' subfolder
+Create the 'data' subfolder
 mkdir data
 
-# Activate your base environment (or create a new one)
+Activate your base environment (or create a new one)
 conda activate base 
+
 2. Install Dependencies
 In the Anaconda Prompt (with your environment activated), install the necessary Python libraries:
 
-Bash
-
 conda install pandas streamlit geopy
-# If conda has issues, you can try:
-# pip install pandas streamlit geopy
+
+ If conda has issues, you can try:
+ pip install pandas streamlit geopy
 
 3. Place Your Data File
 Make sure your rental data file is named corrected_csv.csv and placed inside the data folder within your syracuse_rent_analyzer project directory.
