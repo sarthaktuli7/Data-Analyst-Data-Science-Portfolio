@@ -1,3 +1,5 @@
+<img width="1123" height="721" alt="image" src="https://github.com/user-attachments/assets/1c2a9962-2847-4bb4-afc9-a170459e9227" />
+
 ## Project Overview
 
 This project features two comprehensive, interactive dashboards built using **Tableau** designed to empower sales managers, executives, and marketing teams with critical insights into sales performance and customer behavior. The dashboards facilitate data-driven decision-making by providing a clear, real-time overview of key metrics, trends, and comparisons, enabling stakeholders to identify opportunities, track progress, and refine strategies.
