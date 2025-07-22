@@ -1,3 +1,5 @@
+<img width="1873" height="817" alt="image" src="https://github.com/user-attachments/assets/1215bb68-703c-424b-bd75-1449363461da" />
+
 1. Problem Statement: "The Housing Hunt Hurdle"
 "In Syracuse, finding suitable student-friendly rental housing near Syracuse University is a significant challenge. Existing online platforms often provide overwhelming lists of properties without robust filtering for specific academic needs, like proximity to campus. This forces individuals to manually sift through hundreds of listings, cross-referencing locations, and estimating commute times, leading to frustration, wasted time, and potentially sub-optimal housing choices."
 
