@@ -1,0 +1,8 @@
+openai
+streamlit
+ydata-profiling
+streamlit-chat
+python-dotenv
+matplotlib
+seaborn
+pandas
